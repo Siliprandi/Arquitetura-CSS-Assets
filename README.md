@@ -1,5 +1,5 @@
-# arquitetura-css
-curso de arquitetura CSS da Alura. 
+# Arquitetura-css
+Curso de Arquitetura CSS da Alura. 
 
 ********
 
@@ -31,6 +31,14 @@ curso de arquitetura CSS da Alura.
 * Tornar um site responsivo;
 * Como configurar a adaptação do site a diferentes tamanhos de tela.
 
+*********
+
+Layout do projeto final: 
+
+
+![home-desktop](https://user-images.githubusercontent.com/103619448/200941998-2e387452-b9d6-44e2-955d-343857439591.png)
+
+![home-cel](https://user-images.githubusercontent.com/103619448/200942003-69b38ebf-d961-4a6a-a3fe-988c0d2fde25.png)
 
 
 
